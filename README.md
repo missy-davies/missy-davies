@@ -10,4 +10,4 @@ I'm a Software Engineer with a background in SaaS, startups, Customer Success & 
 
 - Cheering on colleagues on [LinkedIn](https://www.linkedin.com/in/missydavies/) 🎉
 - Sharing inspiration on [Twitter](https://twitter.com/missy_davies_) ✨
-- Posting updates to my personal [portfolio site](https://missy-davies.github.io/)
+- Posting updates to my personal [portfolio site](https://missy-davies.github.io/) 🔗
