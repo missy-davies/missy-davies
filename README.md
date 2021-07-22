@@ -2,8 +2,8 @@
 
 I'm a Software Engineer with a background in SaaS, startups, Customer Success & Social Media Marketing. I'm passionate about empowering women in tech, remote work and travelling the world 🇮🇹.
 
-**Languages** | Python, JavaScript, HTML, CSS, SQL <br>
-**Frameworks & Libraries** | Flask, jQuery, Bootstrap, Jinja, React <br>
+**Languages** | Ruby, Python, JavaScript, HTML, CSS, SQL <br>
+**Frameworks & Libraries** | Rails, Flask, jQuery, Bootstrap, Jinja, React <br>
 **Database Tools** | PostgreSQL, SQLAlchemy <br>
 
 #### Find me around the web 🌎:
