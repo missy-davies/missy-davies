@@ -1,13 +1,9 @@
-## Hi, I'm Missy! 👋
+## Ciao, I'm Missy! 👋
 
-I'm a Software Engineer with a background in SaaS, startups, Customer Success & Social Media Marketing. I'm passionate about empowering women in tech, remote work and travelling the world 🇮🇹.
+- Backend Developer experienced in Ruby on Rails and Python
+- Currently on the Messaging team building intelligence and automation features for [Shopify Inbox](https://www.shopify.com/inbox)
 
-**Languages** | Ruby, Python, JavaScript, HTML, CSS, SQL <br>
-**Frameworks & Libraries** | Rails, Flask, jQuery, Bootstrap, Jinja, React <br>
-**Database Tools** | PostgreSQL, SQLAlchemy <br>
-
-#### Find me around the web 🌎:
-
-- Cheering on colleagues on [LinkedIn](https://www.linkedin.com/in/missydavies/) 🎉
-- Sharing inspiration on [Twitter](https://twitter.com/missy_davies_) ✨
-- Posting updates to my personal [portfolio site](https://missy-davies.github.io/) 🔗
+[LinkedIn](https://www.linkedin.com/in/missydavies/) | 
+[Twitter](https://twitter.com/missy_davies_) | 
+[portfolio site](https://missy-davies.github.io/) |
+[GitLab](https://gitlab.com/missy-davies)
