@@ -5,5 +5,5 @@
 
 [LinkedIn](https://www.linkedin.com/in/missydavies/) | 
 [Twitter](https://twitter.com/missy_davies_) | 
-[portfolio site](https://missy-davies.github.io/) |
+[Portfolio Site](https://missy-davies.github.io/) |
 [GitLab](https://gitlab.com/missy-davies)
