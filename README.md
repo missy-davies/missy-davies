@@ -1,6 +1,7 @@
 ## Ciao, I'm Missy! 👋
 
 - Backend Developer experienced with Ruby on Rails and Python
+- [GitLab Hero](https://about.gitlab.com/community/heroes/members/) (regular open source contributor) 
 - Recently on the Messaging team at Shopify building intelligence and automation features for [Shopify Inbox](https://www.shopify.com/inbox)
 
 [LinkedIn](https://www.linkedin.com/in/missydavies/) | 
