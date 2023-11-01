@@ -1,6 +1,6 @@
 ## Ciao, I'm Missy! 👋
 
-> **_TIP_** I spend more time contributing to open source over on GitLab, check out my [profile](https://gitlab.com/missy-davies) for more activity!
+> 🔔 I spend more time contributing to open source over on GitLab, check out my [profile](https://gitlab.com/missy-davies) for more activity!
 
 💎 Backend Developer experienced with Ruby on Rails and Python
 
